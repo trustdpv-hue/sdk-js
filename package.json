@@ -1,0 +1,22 @@
+{
+  "name": "trustdpv",
+  "version": "1.0.0",
+  "description": "Official JavaScript SDK for the TrustDPV API — trust scores, verification, and batch checks",
+  "main": "trustdpv.js",
+  "types": "trustdpv.d.ts",
+  "keywords": ["trustdpv", "trust", "verification", "api", "sdk", "trust-score", "reputation", "badge"],
+  "author": "TrustDPV",
+  "license": "MIT",
+  "homepage": "https://trustdpv.com/developers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trustdpv/sdk-js"
+  },
+  "bugs": {
+    "url": "https://github.com/trustdpv/sdk-js/issues"
+  },
+  "files": ["trustdpv.js", "trustdpv.d.ts", "README.md"],
+  "publishConfig": {
+    "access": "public"
+  }
+}
